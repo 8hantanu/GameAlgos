@@ -1,1 +1,1 @@
-# GameAlgorithms
+# Game Algorithms
